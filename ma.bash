@@ -55,8 +55,13 @@ _AT_ evilrobot69/rotarywear b4bd8624d77e2210f9382e6b8e43975ea5052aeb
 rm -rf  evilrobot69/rotarywear/evilrobot69-rotarywear-b4bd862/mobile/src/main
 _AT_ enricocid/Storage-USB 6693b5ea68868e441f57d3330852b520786754cd
 _AT_ foolish314159/OpenGL-2D-Engine 9cc19263678eedb80840819a89f38abc21a7cacc
+_AT_ hrj/CalendarView b0cdafe96b6ca8dbc41fde638ea5d340df484974
+_AT_ hrj/gl_test_nexus10 8e46566c843046160667db1d9b4fa22b3a4c4dfe
 _AT_ madui/CustomLoading 230585e92d94b652c5ff14f4c3ed253b21fdd324
 _AT_ madui/ImageFilterForAndroid 4afc0f15d31ccc0e1bf85af64db4b147f3979940
+_AT_ matthewrkula/resume-app d1780fb727f7624c59af5912387dc5c9e50e767f
+_AT_ matthewrkula/SecretTextView c62c38fd0b5b72cb86cdcb37c006b6f779d6e3a9
+_AT_ mthli/EatWhat d4d4c489afadd9e652a60f0d29408b09016b4baa
 _AT_ mr-dddalkilanny/tree-view-list-android 798fc10fb7a584b02533a601f0b83424e8bf5775
 _AT_ quaap/PhoneFoneFun 3d73e2e0af6a21e0b759c13eb1ace31cb09f06f6
 _AT_ romannurik/Android-SwipeToDismiss ecf1e51af2b1f400605b8a3786eed6944dbfbcda
@@ -68,7 +73,7 @@ _AT_ StevenByle/Android-Density-Independence-Demo 82ce51ead3ba4f1ca37256091ff616
 ([ -d StevenByle/Android-Density-Independence-Demo/StevenByle-Android-Density-Independence-Demo-82ce51e/Android\ Density\ Independence ] && mv StevenByle/Android-Density-Independence-Demo/StevenByle-Android-Density-Independence-Demo-82ce51e/Android\ Density\ Independence StevenByle/Android-Density-Independence-Demo/StevenByle-Android-Density-Independence-Demo-82ce51e/AndroidDensityIndependence) || printf "%s\\n" "Signal generated; Continuing..."
 _AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d 
 _AT_ tacothedank/vanilla-headphone-detector d1211b3d7de6dc538611502fb5018b839ffe9363
-# _AT_ twuster/Rubix 51be3c6c808ff95d0533ad77deac088c2af49f80
+ _AT_ twuster/Rubix 51be3c6c808ff95d0533ad77deac088c2af49f80
 _AT_ VelbazhdSoftwareLLC/android-vitosha-poker-odds 182a79416634154cbaf771926410e02bec849279
 _AT_ wuman/DogFan 03684baecbb5d887cf8629646f3610e9001861c8
 _AT_ xuyisheng/XPuzzle 4ac935a9977aae69a281ad170f2e707e7b7cc717
