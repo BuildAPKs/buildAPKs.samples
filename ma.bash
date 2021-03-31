@@ -61,6 +61,7 @@ rm -rf  evilrobot69/rotarywear/evilrobot69-rotarywear-b4bd862/mobile/src/main
 _AT_ foolish314159/OpenGL-2D-Engine 9cc19263678eedb80840819a89f38abc21a7cacc
 _AT_ hrj/CalendarView b0cdafe96b6ca8dbc41fde638ea5d340df484974
 _AT_ hrj/gl_test_nexus10 8e46566c843046160667db1d9b4fa22b3a4c4dfe
+_AT_ kinscore/ackam 1bbc509bc9b0c98535e5d2f9572fcb7f22a6a2a0
 _AT_ madui/CustomLoading 230585e92d94b652c5ff14f4c3ed253b21fdd324
 _AT_ madui/ImageFilterForAndroid 4afc0f15d31ccc0e1bf85af64db4b147f3979940
 _AT_ matthewrkula/resume-app d1780fb727f7624c59af5912387dc5c9e50e767f
@@ -76,12 +77,14 @@ _AT_ rorist/android-alarm-button 72fd5e1f0e570387597d82bce06dcf3715283443
 _AT_ rorist/Cowsay-android c14df9e362aacb68ba99fec24d3d7dce669e043b
 _AT_ shino/ShotQuote 4133c49282ace2053407f6e03810c5dc44a14ded
 _AT_ six999/android-vitosha-poker-odds b98f2052f65f81477f3f8589e9836549f45a1c5e
-_AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d 
 _AT_ tacothedank/vanilla-headphone-detector d1211b3d7de6dc538611502fb5018b839ffe9363
+_AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d 
+_AT_ tscolari/android-camera-gallery-example 2649ba9490eb7d7586cef46d136f4c2de7bf391f
+_AT_ tscolari/android-webview-sample-app c4b5cce8df3b98161daae9f019237cda86fc8e99
 _AT_ twuster/Rubix 51be3c6c808ff95d0533ad77deac088c2af49f80
 _AT_ wuman/DogFan 03684baecbb5d887cf8629646f3610e9001861c8
-_AT_ xuyisheng/XPuzzle 4ac935a9977aae69a281ad170f2e707e7b7cc717
 _AT_ xuyisheng/AndroidHeroes e301cc5313aaf2d5b4657964707c496d68c4826b
+_AT_ xuyisheng/XPuzzle 4ac935a9977aae69a281ad170f2e707e7b7cc717
 _AT_ zippert/TextToSpeech b9313f9de974ebcc63d0f8a190c913c892fda5d4
 _AT_ zippert/When-Can-I-Go-Home---Android cf8383455da006041997f56e14ca1a22918aad4e
 # ma.bash OEF
