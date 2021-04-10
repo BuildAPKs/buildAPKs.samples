@@ -80,6 +80,7 @@ _AT_ rorist/Cowsay-android c14df9e362aacb68ba99fec24d3d7dce669e043b
 _AT_ shino/ShotQuote 4133c49282ace2053407f6e03810c5dc44a14ded
 _AT_ six999/android-vitosha-poker-odds b98f2052f65f81477f3f8589e9836549f45a1c5e
 _AT_ tacothedank/vanilla-headphone-detector d1211b3d7de6dc538611502fb5018b839ffe9363
+_AT_ ti3r/adexampleproject 59d8798a4aa51a2f036eaa294caa6a65ba244521
 _AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d 
 _AT_ tscolari/android-camera-gallery-example 2649ba9490eb7d7586cef46d136f4c2de7bf391f
 _AT_ tscolari/android-webview-sample-app c4b5cce8df3b98161daae9f019237cda86fc8e99
