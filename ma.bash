@@ -50,6 +50,8 @@ _AT_ amsitlab/termuxlauncher b543e1d0e20cb36ce0c801ad3cbee0d27c055882
 _AT_ anthonycr/chromium-webview-samples b18afa96ab6215eed526c19156bf0fe6f5386ad1
 _AT_ aosp/native a527c07b8d078f7da1114b7055f65b479a148729
 _AT_ billthefarmer/draw 76802a9441976c22829dd10692232fcf7549f56f
+_AT_ breakinginterest/android-3d-flip-view-transition fbc16bac13a8dabe2f47eae3915ff1c75c01e735
+_AT_ bretternst/urlazy a0b92148460946462cecf1b98c84f7ea740279ca
 _AT_ burhanaras/AndroidRepo 0ee086b47413b690435642c1b16bc81b919245e2
 _AT_ burhanaras/MvApp2SD 5259ae87e34ae4e6548000251315ebf0ba7bc455
 _AT_ cheezy/Androidwebviewsampleapp 5516da979ca33501b6629c1a120bfbbf9c29ac8e
@@ -92,5 +94,4 @@ _AT_ xuyisheng/AndroidHeroes e301cc5313aaf2d5b4657964707c496d68c4826b
 _AT_ xuyisheng/XPuzzle 4ac935a9977aae69a281ad170f2e707e7b7cc717
 _AT_ zippert/TextToSpeech b9313f9de974ebcc63d0f8a190c913c892fda5d4
 _AT_ zippert/When-Can-I-Go-Home---Android cf8383455da006041997f56e14ca1a22918aad4e
-_AT_ bretternst/urlazy a0b92148460946462cecf1b98c84f7ea740279ca
 # ma.bash OEF
