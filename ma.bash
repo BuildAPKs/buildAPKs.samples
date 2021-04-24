@@ -1,4 +1,5 @@
-#!/bin/env bash # Copyright 2019 (c) all rights reserved
+#!/bin/env bash
+# Copyright 2019-2021 (c) all rights reserved
 # by BuildAPKs https://buildapks.github.io
 #####################################################################
 set -Eeuo pipefail
