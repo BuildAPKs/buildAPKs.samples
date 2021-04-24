@@ -1,4 +1,4 @@
-#!/bin/env bash # Copyright 2019 (c) all rights reserved 
+#!/bin/env bash # Copyright 2019 (c) all rights reserved
 # by BuildAPKs https://buildapks.github.io
 #####################################################################
 set -Eeuo pipefail
@@ -13,26 +13,26 @@ _SMATRPERROR_() { # run on script error
 
 _SMATRPEXIT_() { # run on exit
 	printf "\\e[?25h\\e[0m"
-	set +Eeuo pipefail 
+	set +Eeuo pipefail
 	exit
 }
 
 _SMATRPSIGNAL_() { # run on signal
 	local RV="$?"
 	printf "\\e[?25h\\e[1;7;38;5;0mBuildAPKs %s WARNING:  Signal %s received!\\e[0m\\n" "ma.bash" "$RV"
- 	exit 148 
+ 	exit 148
 }
 
 _SMATRPQUIT_() { # run on quit
 	local RV="$?"
 	printf "\\e[?25h\\e[1;7;38;5;0mBuildAPKs %s WARNING:  Quit signal %s received!\\e[0m\\n" "ma.bash" "$RV"
- 	exit 149 
+ 	exit 149
 }
 
-trap '_SMATRPERROR_ $? $LINENO $BASH_COMMAND' ERR 
+trap '_SMATRPERROR_ $? $LINENO $BASH_COMMAND' ERR
 trap _SMATRPEXIT_ EXIT
-trap _SMATRPSIGNAL_ HUP INT TERM 
-trap _SMATRPQUIT_ QUIT 
+trap _SMATRPSIGNAL_ HUP INT TERM
+trap _SMATRPQUIT_ QUIT
 
 cd "$JDR"
 _AT_ 7heaven/android_page_curl ee84f5eaebd29c13d2db7c688e833a8b743f3c2b
@@ -86,7 +86,7 @@ _AT_ shino/ShotQuote 4133c49282ace2053407f6e03810c5dc44a14ded
 _AT_ six999/android-vitosha-poker-odds b98f2052f65f81477f3f8589e9836549f45a1c5e
 _AT_ tacothedank/vanilla-headphone-detector d1211b3d7de6dc538611502fb5018b839ffe9363
 _AT_ ti3r/adexampleproject 59d8798a4aa51a2f036eaa294caa6a65ba244521
-_AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d 
+_AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d
 _AT_ tscolari/android-camera-gallery-example 2649ba9490eb7d7586cef46d136f4c2de7bf391f
 _AT_ tscolari/android-webview-sample-app c4b5cce8df3b98161daae9f019237cda86fc8e99
 _AT_ twuster/Rubix 51be3c6c808ff95d0533ad77deac088c2af49f80
