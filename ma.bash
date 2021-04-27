@@ -6,28 +6,28 @@ set -Eeuo pipefail
 shopt -s nullglob globstar
 
 _SMATRPERROR_() { # run on script error
-	local RV="$?"
-	echo "$RV" ma.bash
-	printf "\\e[?25h\\n\\e[1;48;5;138mBuildAPKs %s ERROR:  Generated script error %s near or at line number %s by \`%s\`!\\e[0m\\n" "${PWD##*/}" "${1:-UNDEF}" "${2:-LINENO}" "${3:-BASH_COMMAND}"
-	exit 147
+local RV="$?"
+echo "$RV" ma.bash
+printf "\\e[?25h\\n\\e[1;48;5;138mBuildAPKs %s ERROR:  Generated script error %s near or at line number %s by \`%s\`!\\e[0m\\n" "${PWD##*/}" "${1:-UNDEF}" "${2:-LINENO}" "${3:-BASH_COMMAND}"
+exit 147
 }
 
 _SMATRPEXIT_() { # run on exit
-	printf "\\e[?25h\\e[0m"
-	set +Eeuo pipefail
-	exit
+printf "\\e[?25h\\e[0m"
+set +Eeuo pipefail
+exit
 }
 
 _SMATRPSIGNAL_() { # run on signal
-	local RV="$?"
-	printf "\\e[?25h\\e[1;7;38;5;0mBuildAPKs %s WARNING:  Signal %s received!\\e[0m\\n" "ma.bash" "$RV"
- 	exit 148
+local RV="$?"
+printf "\\e[?25h\\e[1;7;38;5;0mBuildAPKs %s WARNING:  Signal %s received!\\e[0m\\n" "ma.bash" "$RV"
+exit 148
 }
 
 _SMATRPQUIT_() { # run on quit
-	local RV="$?"
-	printf "\\e[?25h\\e[1;7;38;5;0mBuildAPKs %s WARNING:  Quit signal %s received!\\e[0m\\n" "ma.bash" "$RV"
- 	exit 149
+local RV="$?"
+printf "\\e[?25h\\e[1;7;38;5;0mBuildAPKs %s WARNING:  Quit signal %s received!\\e[0m\\n" "ma.bash" "$RV"
+exit 149
 }
 
 trap '_SMATRPERROR_ $? $LINENO $BASH_COMMAND' ERR
@@ -65,6 +65,7 @@ rm -rf  evilrobot69/rotarywear/evilrobot69-rotarywear-b4bd862/mobile/src/main
 _AT_ foolish314159/OpenGL-2D-Engine 9cc19263678eedb80840819a89f38abc21a7cacc
 _AT_ hrj/CalendarView b0cdafe96b6ca8dbc41fde638ea5d340df484974
 _AT_ hrj/gl_test_nexus10 8e46566c843046160667db1d9b4fa22b3a4c4dfe
+_AT_ jrudolph/object-browser 9c3adfa87fb3f295f5c50972cea14211d7706b42
 _AT_ jtotto/jame 23d27639ac73ef7d3c25c4c0c8eeb5acdea56de9
 _AT_ kavau/MidiViz c4a053dbc143a066fa71e4ef782573ccb858dfdd
 _AT_ kinscore/ackam 1bbc509bc9b0c98535e5d2f9572fcb7f22a6a2a0
