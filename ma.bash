@@ -101,4 +101,4 @@ _AT_ xuyisheng/AndroidHeroes e301cc5313aaf2d5b4657964707c496d68c4826b
 _AT_ xuyisheng/XPuzzle 4ac935a9977aae69a281ad170f2e707e7b7cc717
 _AT_ zippert/TextToSpeech b9313f9de974ebcc63d0f8a190c913c892fda5d4
 _AT_ zippert/When-Can-I-Go-Home---Android cf8383455da006041997f56e14ca1a22918aad4e
-# buildAPKs.samples ma.bash OEF
+# BuildAPKs/buildAPKs.samples ma.bash OEF

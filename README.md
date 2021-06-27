@@ -14,4 +14,4 @@ cd && git clone https://github.com/BuildAPKs/buildAPKs
 ```
 
 See [docsBuildAPKs](https://buildapks.github.io/docsBuildAPKs/) for information regarding this project.
-<!-- README.md OEF -->
+<!-- BuildAPKs/buildAPKs.samples README.md OEF -->
