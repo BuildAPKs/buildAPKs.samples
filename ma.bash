@@ -69,6 +69,7 @@ _AT_ jrudolph/object-browser 9c3adfa87fb3f295f5c50972cea14211d7706b42
 _AT_ jtotto/jame 23d27639ac73ef7d3c25c4c0c8eeb5acdea56de9
 _AT_ kavau/MidiViz c4a053dbc143a066fa71e4ef782573ccb858dfdd
 _AT_ kinscore/ackam 1bbc509bc9b0c98535e5d2f9572fcb7f22a6a2a0
+_AT_ larygwil/MetalDetector 2c60bc2832bb186b75d71c5a88caa1ff7144326c
 _AT_ luizzacov/MultiplePages 4e64dc36c7ba0213b0f1ba69d675cdfd31d1d003
 _AT_ madui/CustomLoading 230585e92d94b652c5ff14f4c3ed253b21fdd324
 _AT_ madui/ImageFilterForAndroid 4afc0f15d31ccc0e1bf85af64db4b147f3979940
@@ -89,6 +90,7 @@ _AT_ shino/ShotQuote 4133c49282ace2053407f6e03810c5dc44a14ded
 _AT_ six999/android-vitosha-poker-odds b98f2052f65f81477f3f8589e9836549f45a1c5e
 _AT_ tacothedank/vanilla-headphone-detector d1211b3d7de6dc538611502fb5018b839ffe9363
 _AT_ ti3r/adexampleproject 59d8798a4aa51a2f036eaa294caa6a65ba244521
+_AT_ tlp/Android_Metal_Detector_Example 979b41333803738c514c053e58d5795e6ab5d6b4
 _AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d
 _AT_ tscolari/android-camera-gallery-example 2649ba9490eb7d7586cef46d136f4c2de7bf391f
 _AT_ tscolari/android-webview-sample-app c4b5cce8df3b98161daae9f019237cda86fc8e99
@@ -99,4 +101,4 @@ _AT_ xuyisheng/AndroidHeroes e301cc5313aaf2d5b4657964707c496d68c4826b
 _AT_ xuyisheng/XPuzzle 4ac935a9977aae69a281ad170f2e707e7b7cc717
 _AT_ zippert/TextToSpeech b9313f9de974ebcc63d0f8a190c913c892fda5d4
 _AT_ zippert/When-Can-I-Go-Home---Android cf8383455da006041997f56e14ca1a22918aad4e
-# ma.bash OEF
+# buildAPKs.samples ma.bash OEF
