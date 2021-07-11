@@ -45,7 +45,6 @@ _AT_ BullShark/AndroidTutorial f5b3ea08ab9dce1b78a67b71490dc45afe275199
 _AT_ MichaelRFairhurst/android-guitar-forms e0003c4bc1755a83243319da36cf339fa0c6af59
 _AT_ StevenByle/Android-Density-Independence-Demo 82ce51ead3ba4f1ca37256091ff61604c781b319
 ([ -d StevenByle/Android-Density-Independence-Demo/StevenByle-Android-Density-Independence-Demo-82ce51e/Android\ Density\ Independence ] && mv StevenByle/Android-Density-Independence-Demo/StevenByle-Android-Density-Independence-Demo-82ce51e/Android\ Density\ Independence StevenByle/Android-Density-Independence-Demo/StevenByle-Android-Density-Independence-Demo-82ce51e/AndroidDensityIndependence) || printf "%s\\n" "Signal generated; Continuing..."
-_AT_ VelbazhdSoftwareLLC/android-vitosha-poker-odds 182a79416634154cbaf771926410e02bec849279
 _AT_ alanbriolat/Android-SoundTest f13177d93d54fb7b9d37a073900e8fdaf5abc0cc
 _AT_ amsitlab/termuxlauncher b543e1d0e20cb36ce0c801ad3cbee0d27c055882
 _AT_ anthonycr/chromium-webview-samples b18afa96ab6215eed526c19156bf0fe6f5386ad1
@@ -55,9 +54,12 @@ _AT_ breakinginterest/android-3d-flip-view-transition fbc16bac13a8dabe2f47eae391
 _AT_ bretternst/urlazy a0b92148460946462cecf1b98c84f7ea740279ca
 _AT_ burhanaras/AndroidRepo 0ee086b47413b690435642c1b16bc81b919245e2
 _AT_ burhanaras/MvApp2SD 5259ae87e34ae4e6548000251315ebf0ba7bc455
-_AT_ cheezy/Androidwebviewsampleapp 5516da979ca33501b6629c1a120bfbbf9c29ac8e
-_AT_ cuongmanhvo162/Android-ImageView-hover 4c4105b96f6eb5e6c09617bf12755e03326cd9a0
 _AT_ catch/android-intent b365b0f5cb7890e71fe151036fc79bd47445b0dd
+_AT_ cheezy/Androidwebviewsampleapp 5516da979ca33501b6629c1a120bfbbf9c29ac8e
+_AT_ CircuitFreakCoder/AndroidDetectInternetConnection aee34f11cd8dc77acf287bd4f68d258551dc5138
+_AT_ C-o-r-E/Android-Sensors caef1ed3b113021bb655cb8a335a9e1c324e77ce
+_AT_ C-o-r-E/andSort a1f28b2003be86dcb4b7e77296c3aec3aed42547
+_AT_ cuongmanhvo162/Android-ImageView-hover 4c4105b96f6eb5e6c09617bf12755e03326cd9a0
 _AT_ easytiger/dotty f6762ce2d4fa565755d53b894ae8639b1ab27342
 _AT_ enricocid/Storage-USB 6693b5ea68868e441f57d3330852b520786754cd
 _AT_ evilrobot69/rotarywear b4bd8624d77e2210f9382e6b8e43975ea5052aeb
@@ -95,6 +97,7 @@ _AT_ tobykurien/CustomControls a1659ff7defd0a9388084e8606a78c5aba4fc05d
 _AT_ tscolari/android-camera-gallery-example 2649ba9490eb7d7586cef46d136f4c2de7bf391f
 _AT_ tscolari/android-webview-sample-app c4b5cce8df3b98161daae9f019237cda86fc8e99
 _AT_ twuster/Rubix 51be3c6c808ff95d0533ad77deac088c2af49f80
+_AT_ VelbazhdSoftwareLLC/android-vitosha-poker-odds 182a79416634154cbaf771926410e02bec849279
 _AT_ wangfowen/StoryCraft 9f97ce783357420e37d3aea6ce2d827be7523012
 _AT_ wuman/DogFan 03684baecbb5d887cf8629646f3610e9001861c8
 _AT_ xuyisheng/AndroidHeroes e301cc5313aaf2d5b4657964707c496d68c4826b
