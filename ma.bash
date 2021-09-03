@@ -62,6 +62,7 @@ _AT_ CircuitFreakCoder/AndroidDetectInternetConnection aee34f11cd8dc77acf287bd4f
 _AT_ C-o-r-E/Android-Sensors caef1ed3b113021bb655cb8a335a9e1c324e77ce
 _AT_ C-o-r-E/andSort a1f28b2003be86dcb4b7e77296c3aec3aed42547
 _AT_ cuongmanhvo162/Android-ImageView-hover 4c4105b96f6eb5e6c09617bf12755e03326cd9a0
+_AT_ danboy/sleepy f997584e0e484a90d0811f6e7a04e124d6bac828
 _AT_ easytiger/dotty f6762ce2d4fa565755d53b894ae8639b1ab27342
 _AT_ enricocid/Storage-USB 6693b5ea68868e441f57d3330852b520786754cd
 _AT_ evilrobot69/rotarywear b4bd8624d77e2210f9382e6b8e43975ea5052aeb
