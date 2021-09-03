@@ -70,6 +70,7 @@ rm -rf  evilrobot69/rotarywear/evilrobot69-rotarywear-b4bd862/mobile/src/main
 _AT_ foolish314159/OpenGL-2D-Engine 9cc19263678eedb80840819a89f38abc21a7cacc
 _AT_ hrj/CalendarView b0cdafe96b6ca8dbc41fde638ea5d340df484974
 _AT_ hrj/gl_test_nexus10 8e46566c843046160667db1d9b4fa22b3a4c4dfe
+_AT_ hyoromo/DemoSensor 110b4f77431c39475f1bec94dd501efddc48a3b9
 _AT_ jrudolph/object-browser 9c3adfa87fb3f295f5c50972cea14211d7706b42
 _AT_ jtotto/jame 23d27639ac73ef7d3c25c4c0c8eeb5acdea56de9
 _AT_ kavau/MidiViz c4a053dbc143a066fa71e4ef782573ccb858dfdd
