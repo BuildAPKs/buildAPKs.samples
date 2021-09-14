@@ -67,6 +67,7 @@ _AT_ enricocid/Storage-USB 6693b5ea68868e441f57d3330852b520786754cd
 _AT_ evilrobot69/rotarywear b4bd8624d77e2210f9382e6b8e43975ea5052aeb
 rm -rf  evilrobot69/rotarywear/evilrobot69-rotarywear-b4bd862/mobile/src/main
 _AT_ foolish314159/OpenGL-2D-Engine 9cc19263678eedb80840819a89f38abc21a7cacc
+_AT_ goodev/android-ColorPickerPreference e0a34756f640f3ae290d993a5ab02bbcd642eb28
 _AT_ hrj/CalendarView b0cdafe96b6ca8dbc41fde638ea5d340df484974
 _AT_ hrj/gl_test_nexus10 8e46566c843046160667db1d9b4fa22b3a4c4dfe
 _AT_ hyoromo/DemoSensor 110b4f77431c39475f1bec94dd501efddc48a3b9
