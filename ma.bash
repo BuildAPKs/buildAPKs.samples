@@ -90,7 +90,6 @@ _AT_ mr-dddalkilanny/tree-view-list-android 798fc10fb7a584b02533a601f0b83424e8bf
 _AT_ mthli/EatWhat d4d4c489afadd9e652a60f0d29408b09016b4baa
 _AT_ palazzem/SlideShow 457d835b192b8f7164d6f88f432a65059f434424
 _AT_ ponny616/android-mp3-player f3925b1c796456c5a0ddc8b727851ab1e242a7e3
-_AT_ postNuKe/opendeveloperconsole afccc0db69c9dfa3cb701ed61b045c35ea11bd42
 _AT_ quaap/PhoneFoneFun 3d73e2e0af6a21e0b759c13eb1ace31cb09f06f6
 _AT_ ramya201/GUI-Android b778ae35511a64222fe037d2363e04f41ff8d0e5
 _AT_ ramya201/Memesify 5486117ce909ad113e4b94483752e285181be084
