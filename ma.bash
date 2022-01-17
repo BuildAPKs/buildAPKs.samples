@@ -64,6 +64,7 @@ _AT_ cyrilmottier/DrawablePresentation 87517fd376e82b67bdc2aba3c9522955e0549773
 _AT_ danboy/sleepy f997584e0e484a90d0811f6e7a04e124d6bac828
 _AT_ easytiger/dotty f6762ce2d4fa565755d53b894ae8639b1ab27342
 _AT_ enricocid/Storage-USB 6693b5ea68868e441f57d3330852b520786754cd
+_AT_ evanhalley/Camera---Face-Eyes-Mouth 8627a17f367188782baae91c7e5f6fb2e0f34a04
 _AT_ evilrobot69/rotarywear b4bd8624d77e2210f9382e6b8e43975ea5052aeb
 rm -rf  evilrobot69/rotarywear/evilrobot69-rotarywear-b4bd862/mobile/src/main
 _AT_ foolish314159/OpenGL-2D-Engine 9cc19263678eedb80840819a89f38abc21a7cacc
