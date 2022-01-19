@@ -36,6 +36,7 @@ trap _SMATRPSIGNAL_ HUP INT TERM
 trap _SMATRPQUIT_ QUIT
 
 cd "$JDR"
+_AT_ 18thletter/digigraph ab9133cbf29ec7f26560377cce0256d1d1c504b5
 _AT_ 7heaven/android_page_curl ee84f5eaebd29c13d2db7c688e833a8b743f3c2b
 _AT_ 7heaven/docktest d9520f6a641fe028559ab1a48bba99e5e20bda82
 _AT_ 7heaven/Bezier 975c7c667aca62fa4f4fca2d3812e15561314618
